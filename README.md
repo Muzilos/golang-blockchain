@@ -1,13 +1,6 @@
 # golang-blockchain 
 
 ## The Importance of BlockChain
-### The Current State of Decentralization
-Throughout history, many have attempted to materialize the utopian ideal of decentralization. Attempts to implement these ideals have always faced one critical issue: the ease at which a decentralized system can be infiltrated and collapse from any attempts to split any unions from it that may emerge.
-
-Modern solutions to this fundamental issue have always required some sort of centralization of authority, a single source of truth from which smaller subsets of tightly governed authorities control and secure the data which they treat as Capital from which their wealth grows.
-
-The Greek political philosophy of Democracy is one such example of a theoretical decentralized system in which every individual person has a say in the going ons of the larger whole of their society. The compromise between decentalization and authoritarianism that emerges from the material implementation of this ideal is the great American experiment of Democratic-Republicanism in which regional representatives are elected as single-source authorities of the needs and going-ons of their constituents, while still maintaining the veneer of decentralization and Democracy.
-
 ### The Future State of Decentralization
 BlockChain is a material implementation of a truly decentralized system that can maintain a single-source of truth without succumbing to the threat that disinfomation has had on previous implementations of this theoretical framework. The propagation of this general ledger of information, and it can be of just about any sort of information, is now owned and propagated collectively by all those who participate in its creation and propagation.
 
